@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.Exercicio6\bin\Debug\ExerciciosProfRomulo.Exercicio6.exe.config
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.Exercicio6\bin\Debug\ExerciciosProfRomulo.Exercicio6.exe
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.Exercicio6\bin\Debug\ExerciciosProfRomulo.Exercicio6.pdb
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.Exercicio6\obj\Debug\ExerciciosProfRomulo.Exercicio6.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.Exercicio6\obj\Debug\ExerciciosProfRomulo.Exercicio6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.Exercicio6\obj\Debug\ExerciciosProfRomulo.Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.Exercicio6\obj\Debug\ExerciciosProfRomulo.Exercicio6.exe
+C:\Users\Aluno\source\repos\ExerciciosProfRomulo\ExerciciosProfRomulo.Exercicio6\obj\Debug\ExerciciosProfRomulo.Exercicio6.pdb
